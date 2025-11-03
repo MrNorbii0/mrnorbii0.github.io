@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 .menu {
     text-align: center;
 }
@@ -47,3 +48,16 @@
     border: black;
 >>>>>>> origin/zad2
 }
+=======
+.title {
+    text-align: center;
+    padding-bottom: 1cm;
+}
+
+img {
+    width: 500px;
+    height: 300px;
+    margin-bottom: 1cm;
+    border: 5px solid black;
+}
+>>>>>>> origin/Zad3_1
