@@ -1,0 +1,20 @@
+[
+    {
+    "Marka": "Meta" ,
+    "Model": "Quest 3",
+    "Cena": "2000",
+    "Kolor": "Biały"
+   },
+   {
+    "Marka": "HTC" ,
+    "Model": "Valve",
+    "Cena": "5000",
+    "Kolor": "Czarny"
+   },
+   {
+    "Marka": "Google" ,
+    "Model": "Vr Box",
+    "Cena": "1200",
+    "Kolor": "Zielony"
+   }
+]
