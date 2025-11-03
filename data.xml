@@ -1,0 +1,20 @@
+<Rzeczywistosc>
+<VR>
+<Meta model="Quest 2"></Meta>
+<HTC cena="5000zl"></HTC>
+<Valve produkt="Half-Life: Alyx"></Valve>
+<Pozycjonery ilosc="6"></Pozycjonery>
+</VR>
+<AR>
+<PokemonGo poekmon="Charizard"></PokemonGo>
+<Medycyna zastosowanie="obrazowanie medyczne"></Medycyna>
+<motoryzacja marka="Tesla"></motoryzacja>
+<muzea zastosowanie="Wirtualny spacer"></muzea>
+</AR>
+<Gogle>
+<Quest model="Quest 3"></Quest>
+<HTC model="VIVE"></HTC>
+<Esperanza model="Pod choinke dla dziecka"></Esperanza>
+<Google model="VR BOX"></Google>
+</Gogle>
+</Rzeczywistosc>

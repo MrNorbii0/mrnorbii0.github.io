@@ -1,0 +1,16 @@
+#abc{
+    text-align: center;
+    padding-bottom: 1cm;
+}
+.kloc {
+    padding: 5px;
+    border-collapse: collapse;
+    font-size: larger;
+    border: solid;
+    border-color: black;
+}
+#leb{
+    background-color: black;
+    color: white;
+    border: black;
+}
